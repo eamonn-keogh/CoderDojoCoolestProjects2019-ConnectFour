@@ -1,1 +1,1 @@
-# CoderDojoCoolestProjects2019-ConnectFour
+# CoderDojo2019-ConnectFour
